@@ -12,7 +12,6 @@ Use [PIP](https://www.liquidweb.com/kb/install-pip-windows/) to install these li
   * [urllib](https://docs.python.org/3/library/urllib.html)
   * [Pillow](https://pillow.readthedocs.io/en/stable/installation.html)
   * [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/#install-flask)
-  * [requests](https://requests.readthedocs.io/en/master/user/install/#install)
 
 ### Instructions
 1. Launch the Python File. You should see something like "Runing on http://127.0.0.1:5000/"
